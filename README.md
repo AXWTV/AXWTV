@@ -1,4 +1,9 @@
-### Hi there 👋
+# Me = AXWTV
+
+![AXWTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=AXWTV&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AXWTV&layout=compact)
+
+
 
 <!--
 **AXWTV/AXWTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
