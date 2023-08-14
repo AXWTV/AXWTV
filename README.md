@@ -1,7 +1,7 @@
 # Me = AXWTV
 
-* 🔭 I’m currently working on creating a basic calculator
-* 🌱 I’m currently learning Java.
+*  I’m currently working on creating a Visual Novel Game
+*  I’m currently learning Java & Renpy.
 * 💬 Ask me about my projects anytime.
 
 ![AXWTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=AXWTV&show_icons=true&theme=radical)
